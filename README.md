@@ -1,6 +1,5 @@
 # SOL-Project
 
-# SQL_Project_Music_Store_Analysis
 <h2>SQL_Project_Music_Store_Analysis</h2>
 SQL project to analyze online music store data
 
